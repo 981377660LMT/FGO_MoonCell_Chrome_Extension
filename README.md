@@ -1,7 +1,7 @@
 # FGO_MoonCell_Chrome_Extension
 
 <p align="center">
-  <a href="https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" target="blank"><img src="./img/astolfu.png" alt="astolfu" /></a>
+  <a href="https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4" target="blank"><img src="/img/astolfu.png" alt="astolfu" /></a>
 </p>
 
   <p bold align="center"><b>FGOMoonCell语音文本下载插件</b></p>
