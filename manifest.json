@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "FGOMoonCell语音文本下载插件",
   "version": "1.0.0",
-  "description": "简单的Chrome扩展demo",
+  "description": "FGOMoonCell语音文本下载插件",
   "author": "草苺奶昔",
   "icons": {
     "16": "./img/astolfu.png",
@@ -21,7 +21,7 @@
     {
       "matches": ["https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4"],
       "js": ["./js/content_ele.js"],
-      "run_at": "document_idle"
+      "run_at": "document_start"
     }
   ],
   "homepage_url": "https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4"
