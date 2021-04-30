@@ -20,7 +20,7 @@
   "content_scripts": [
     {
       "matches": ["https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4"],
-      "js": ["./js/content_ele.js", "./js/content_req.js"],
+      "js": ["./js/content_ele.js"],
       "run_at": "document_idle"
     }
   ],
