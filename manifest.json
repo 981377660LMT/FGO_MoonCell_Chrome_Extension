@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "FGOMoonCell语音文本下载插件",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "FGOMoonCell语音文本下载插件",
   "author": "草苺奶昔",
   "icons": {
@@ -16,7 +16,7 @@
   "background": {
     "page": "./html/background.html"
   },
-  "permissions": ["webRequest", "webRequestBlocking", "downloads"],
+  "permissions": ["downloads"],
   "content_scripts": [
     {
       "matches": ["https://fgo.wiki/w/%E8%8B%B1%E7%81%B5%E5%9B%BE%E9%89%B4"],
